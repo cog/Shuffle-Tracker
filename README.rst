@@ -2,6 +2,10 @@
 Shuffle Tracker
 ===============================
 
+.. image:: https://api.codacy.com/project/badge/grade/223010a9d2774165b7dbc463c5187e37
+		:target: https://www.codacy.com/app/cogurov/Shuffle-Tracker
+
+
 .. image:: https://img.shields.io/pypi/v/shuffle_tracker.svg
         :target: https://pypi.python.org/pypi/shuffle_tracker
 
